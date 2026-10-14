@@ -1,0 +1,4 @@
+com\klu\springmvc\entity\Product.class
+com\klu\springmvc\repository\ProductRepository.class
+com\klu\springmvc\ProductApplication.class
+com\klu\springmvc\controller\ProductController.class
